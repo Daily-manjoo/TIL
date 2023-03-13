@@ -7,8 +7,8 @@ UI 만드는 스텝
 
 HTML
 
-<div class="alert-box" id="alert"></div>
-<button>버튼</button>
+        <div class="alert-box" id="alert"></div>
+        <button>버튼</button>
 
 CSS
 
